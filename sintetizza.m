@@ -1,5 +1,5 @@
-# This function has to be implemented in order to have the right combinations of the target value of R, L and C, based on 
-# the components availability
+% This function has to be implemented in order to have the right combinations of the target value of R, L and C, based on 
+% the components availability
 
 function risultato = sintetizza(tipo, target, sogliaErrore, nomeComponente)
 % SINTETIZZA - Sintesi di resistenze, condensatori e induttanze
